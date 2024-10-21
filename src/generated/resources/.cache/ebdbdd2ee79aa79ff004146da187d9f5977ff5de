@@ -1,5 +1,0 @@
-// 1.20.1	2024-10-12T11:54:20.2416976	Tags for minecraft:block mod id metals
-35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/stone.json
-1bfb05723ecec109c296ed19ebb647192ec707d7 data/minecraft/tags/blocks/mineable/pickaxe.json
-a6383ef05722b777cdb67e59ccef9048057137c4 data/minecraft/tags/blocks/needs_diamond_tool.json
-a599eff835ce86bc8081e6d93f0a29146d66acc8 data/minecraft/tags/blocks/needs_iron_tool.json
