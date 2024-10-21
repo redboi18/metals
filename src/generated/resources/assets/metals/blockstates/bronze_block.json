@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "metals:block/bronze_block"
+    }
+  }
+}

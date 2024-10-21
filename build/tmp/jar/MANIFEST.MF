@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: metals
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: metals
+Implementation-Version: 1.20.1-0.0.1
+Implementation-Vendor: 
+Implementation-Timestamp: 2024-10-11T22:34:08-0700
+MixinConfigs: metals.mixins.json
+

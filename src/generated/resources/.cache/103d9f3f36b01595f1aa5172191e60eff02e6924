@@ -1,0 +1,9 @@
+// 1.20.1	2024-10-12T11:54:20.2647569	Registries
+5e6047095ade3b93ddfa009fc6391bd757dd49ba data/metals/forge/biome_modifier/add_bauxite_ore.json
+c956747ba18e6253e0b16766a3a4c5858058793b data/metals/forge/biome_modifier/add_rutile_ore.json
+01ec558e237825de2cd220bd667ef48327dfa023 data/metals/forge/biome_modifier/add_silver_ore.json
+185672b84ef9ced2d92a33c7217f0e097ebe0f07 data/metals/worldgen/configured_feature/bauxite_ore.json
+eff04d05bef0642c84f8d4f1d855b3cbde13d6fc data/metals/worldgen/configured_feature/rutile_ore.json
+44f042bde43f8146663bdd5229ee3a97f204a74e data/metals/worldgen/configured_feature/silver_ore.json
+3192a45e8fc5c37298001d8f97becb8bb2903e61 data/metals/worldgen/placed_feature/bauxite_ore_placed.json
+2a4cbf78f75c1812a3f80c926a1ef46a3e768723 data/metals/worldgen/placed_feature/silver_ore_placed.json

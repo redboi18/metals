@@ -1,0 +1,36 @@
+{
+  "tab.metals_tab": "Metals",
+
+  "item.metals.bronze_ingot": "Bronze Ingot",
+  "block.metals.bronze_block": "Bronze Block",
+
+  "item.metals.aluminum_ingot": "Aluminum Ingot",
+  "item.metals.raw_bauxite": "Raw Bauxite",
+  "block.metals.aluminum_block": "Aluminum Block",
+  "block.metals.raw_bauxite_block": "Block of Raw Bauxite",
+  "block.metals.bauxite_ore": "Bauxite Ore",
+  "block.metals.deepslate_bauxite_ore": "Deepslate Bauxite Ore",
+
+  "item.metals.titanium_ingot": "Titanium Ingot",
+  "item.metals.raw_rutile": "Raw Rutile",
+  "block.metals.titanium_block": "Titanium Block",
+  "block.metals.raw_rutile_block": "Block of Raw Rutile",
+  "block.metals.rutile_ore": "Rutile Ore",
+  "block.metals.deepslate_rutile_ore": "Deepslate Rutile Ore",
+
+  "item.metals.tin_ingot": "Tin Ingot",
+  "block.metals.tin_block": "Tin Block",
+
+  "item.metals.silver_ingot": "Silver Ingot",
+  "item.metals.raw_silver": "Raw Silver",
+  "block.metals.silver_block": "Silver Block",
+  "block.metals.raw_silver_block": "Block of Raw Silver",
+  "block.metals.silver_ore": "Silver Ore",
+  "block.metals.deepslate_silver_ore": "Deepslate Silver Ore",
+
+  "item.metals.platinum_ingot": "Platinum Ingot",
+  "block.metals.platinum_block": "Platinum Block",
+
+  "item.metals.steel_ingot": "Steel Ingot",
+  "block.metals.steel_block": "Steel Block"
+}
